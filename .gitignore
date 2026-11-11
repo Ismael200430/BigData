@@ -1,0 +1,15 @@
+
+# Ignorar datos pesados y CSVs
+*.csv
+*.parquet
+*.zip
+*.gz
+data/
+**/data/
+
+# Ignorar entornos virtuales
+.venv/
+venv/
+env/
+.env/
+
